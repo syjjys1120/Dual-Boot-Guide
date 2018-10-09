@@ -42,6 +42,6 @@ Restart your pc, press F2/F12 get into Bios settings.
 **It may differ for different machines to get into Bios settings, so maybe not F2/F12 for you.
 
 
-
+TBC
 
 
