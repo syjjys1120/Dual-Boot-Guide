@@ -41,6 +41,7 @@ Restart your pc, press F2/F12 get into Bios settings.
 
 **It may differ for different machines to get into Bios settings, so maybe not F2/F12 for you.
 
+Once you get into the BIOS settings, change the SATA option from 'RAID' to 'AHCI'. If you use 'RAID' mode, then Ubuntu system will have some issues. And later on you also need to change a setup to enable windows boot from 'AHCI'.
 
 TBC
 
